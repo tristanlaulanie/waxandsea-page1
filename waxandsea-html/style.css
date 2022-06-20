@@ -1,0 +1,225 @@
+.header-contact {
+    position: relative;
+    padding-bottom: 1em;
+    left: 1.2em;
+}
+
+.telephone {
+    width: 1.7em;
+}
+
+.telephone-number {
+    position: absolute;
+    font-size: 1.2em;
+    top: 0.3em;
+    text-align: center;
+    padding-left: 0.7em;
+}
+
+.instagram-logo {
+ width: 1.7em; 
+ position: relative;
+ right: -9em;
+}
+
+.header-nav {
+    position: relative;
+    border: solid;
+    width: 91%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: center;
+    top: 2.2em;
+    left: 3em;
+}
+
+.logo-was {
+    width: 7em;
+    position: absolute;
+    top: -2.3em;
+    left: 2.5em;
+}
+
+.header-nav span {
+    margin-right: 4em;
+} 
+
+.secondheader-links {
+    position: absolute;
+    font-size: 1.3em;
+    text-align: center;
+    left: 12em;
+}
+
+.imagesaccueil {
+    position: absolute;
+    top: 8em;
+}
+.imagecouture {
+    position: relative;
+    top: 8em;
+    left: 5em;
+    width: 33%;
+    padding-bottom: 1em;
+    border-radius: 40%;
+}
+
+.imagerobe {
+    position: relative;
+    width: 13%;
+    top: 6.4em;
+    left: 10em;
+}
+
+.tissuswax {
+    position: relative;
+    width: 30%;
+    top: 5.8em;
+    left: 15em;
+    border-radius: 35%;
+}
+
+.titreactivite {
+    position: absolute;
+    font-size: 2em;
+    top: 17em;
+    left: 16em;
+    padding-bottom: 2em;
+}
+
+.texteactivite {
+    position: relative;
+    font-size: 1.2em;
+    top: 28em;
+    left: 20em;
+    text-align: center;
+    padding-bottom: 1em;
+}
+
+.tshirticon {
+    width: 7em;
+    position: absolute;
+    top: 57em;
+    left: 4em;
+}
+
+.bagicon {
+    width: 5.5em;
+    position: absolute;
+    top: 57.5em;
+    left: 13em;
+}
+
+.imagesactiviteleft {
+    position: relative;
+    top: -21em;
+    left: 5em;
+}
+
+.imagesactiviteleft-texte {
+    position: relative;
+    text-align: justify;
+    font-size: 1.3em;
+    top: 49.5em;
+    left: 3em;
+}
+
+.needleicon {
+    position: relative;
+    width: 4.8em;
+    left: 34em;
+    top: 34em;
+    padding-bottom: 2em;
+}
+
+.needle-texte {
+    position: relative;
+    font-size: 1.3em;
+    left: 24em;
+    top: 26em;
+    padding-bottom: 2em;
+}
+
+.franceicon {
+    position: relative;
+    width: 7em;
+    left: 48em;
+    top: 19em;
+}
+
+.franceicon-texte {
+    position: relative;
+    font-size: 1.3em;
+    left: 36em;
+    top: 15em;
+}
+
+.iconstexteactivite {
+    position: relative;
+    left: 1em;
+}
+
+
+
+@media screen and (max-width: 1047px) {
+
+    .header-nav {
+            width: 78%;
+        }
+    }
+
+
+
+
+@media screen and (max-width: 1116px) {
+    .header-nav span {
+        margin-right: 1.5em;   
+       } 
+    .header-nav {
+        width: 74.5%;
+    }      
+
+}
+
+@media screen and (max-width: 1141px) {
+    .header-nav {
+            width: 100%;
+        }
+    }
+
+@media screen and (max-width: 1154px) {
+    .header-nav {
+        width: 78%;
+    }
+}
+
+
+@media screen and (max-width: 1170px) {
+    .header-nav span {
+     margin-right: 2.5em;   
+    }
+    .header-nav {
+        width: 80%;
+}
+}
+
+@media screen and (max-width: 1247px) {
+    .header-nav {
+        width: 90%;
+        padding-bottom: 1em;
+    } 
+    .secondheader-links {
+        left: 8em;
+    }
+
+    .header-nav span {
+        right: 15em;
+    }
+}
+
+
+
+
+
+
+    
